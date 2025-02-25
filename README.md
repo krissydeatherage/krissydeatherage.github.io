@@ -1,2 +1,1 @@
-# krissydeatherage.github.io
-Personal Website
+Krissy Deatherage
