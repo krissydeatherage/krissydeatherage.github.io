@@ -1,7 +1,5 @@
-<!DOCTYPE html>
 <html>
 <head>
-<!-- HTML Codes by Quackit.com -->
 <title>
 Krissy Deatherage</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
